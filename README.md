@@ -1,3 +1,4 @@
+![course](https://github.com/user-attachments/assets/cb2352ba-720e-49b6-aab9-d78f82e092cd)
 # Digital Marketing Course
 
 **Course Overview:**
@@ -19,7 +20,7 @@ This course is designed to provide a comprehensive understanding of digital mark
 11. **Digital Marketing for B2B**
 12. **Digital Marketing Analytics and Reporting**
 
-![course](https://github.com/user-attachments/assets/cb2352ba-720e-49b6-aab9-d78f82e092cd)
+
 
 
 **Course Objectives:**
